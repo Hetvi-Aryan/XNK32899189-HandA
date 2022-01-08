@@ -1,6 +1,7 @@
 body{
     height: fit-content;
     width: fit-content; 
+    background-color: rgb(122, 230, 163);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     overflow: hidden;
