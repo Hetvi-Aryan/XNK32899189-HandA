@@ -24,7 +24,7 @@ $("#download").on('click', function () {
 
         doc.setFont('helvetica');
         doc.setFontType('bold');
-        doc.text("Meet Script", 190, 28, "right");
+        doc.text("Meet Mate", 190, 28, "right");
 
         doc.setFontSize(17);
         doc.setFont('times');
