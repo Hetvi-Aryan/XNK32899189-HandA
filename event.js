@@ -14,7 +14,7 @@ chrome.storage.onChanged.addListener(function(result, namespaces){
         if(result.subtitleWarning.newValue){
             var notifOption = {
                 type: "basic",
-                iconUrl: "round-table.png",
+                iconUrl: "lookout.png",
                 title: "Caption Off!",
                 message: "Please turn on CAPTIONS!!"
             };
