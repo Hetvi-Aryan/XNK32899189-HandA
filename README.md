@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    Do you zone out in the middle of your video call? Or are you super productive and want to multitask by attending call <b>and</b> doing something else? Then Meet-Mate aims to solve this issue by providing a watch for you (i.e. the text you specify) on Google Meet! This extension is built using **JavaScript** and **HTML** parses the captions of the call and alerts whenever someone says your defined string. It auto genertaes the meeting notes which you can download as pdf.
+    Do you zone out in the middle of your video call? Or are you super productive and want to multitask by attending call <b>and</b> doing something else? Then Meet-Mate aims to solve this issue by providing a watch for you (i.e. the text you specify) on Google Meet! This extension is built using <b>JavaScript</b> and <b>HTML</b> parses the captions of the call and alerts whenever someone says your defined string. It auto genertaes the meeting notes which you can download as pdf.
 </p>
 
 <h2 align="center">Installation</h2>
