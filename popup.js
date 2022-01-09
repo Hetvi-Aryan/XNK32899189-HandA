@@ -14,8 +14,6 @@ $("#download").on('click', function () {
         doc.setLineWidth(1.5);
         doc.rect(0, 0, 220, 60, "F");
 
-        doc.addImage(imgData, 'PNG', 20, 6, 46, 46);
-
         doc.setLineWidth(1);
         doc.setDrawColor(255, 113, 113);
         doc.line(10, 60, 200, 60);
