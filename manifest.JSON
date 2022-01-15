@@ -1,7 +1,7 @@
 {
     "manifest_version":2,
     "name":"Meet Mate",
-    "version":"1.6",
+    "version":"2.0",
     "description":"A google meet supported chrome extension that auto genrates notes and alerts the user over a specified keywords.",
     "icons": {
         "128": "lookout.png" 
